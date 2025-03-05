@@ -6,11 +6,11 @@
 
 ## Servicios
 
-- **Venta y configuración de servidores.**
-- **Instalación de redes y cableado estructurado.**
-- **Mantenimiento preventivo y correctivo.**
-- **Desarrollo de soluciones informáticas personalizadas.**
-- **Soporte técnico especializado.**
+- 🖥️ **Venta y configuración de servidores.**
+- 🌐 **Instalación de redes y cableado estructurado.**
+- 🔧 **Mantenimiento preventivo y correctivo.**
+- 💻 **Desarrollo de soluciones informáticas personalizadas.**
+- 📞 **Soporte técnico especializado.**
 
 ---
 
@@ -24,9 +24,9 @@ Emerge de la transformación de las empresas unipersonales **“MICROCOM”** y 
 
 Si tienes alguna consulta o deseas más información sobre nuestros servicios, no dudes en contactarnos:
 
-- **Correo Electrónico**: [microcom@microcom-ti.com]
-- **Teléfono**: [+591 72100255](https://api.whatsapp.com/send/?phone=59172100255&text=Hola+%2AMICROCOM+TI+SRL%2A.+Necesito+más+información+sobre+Quienes+Somos+https%3A%2F%2Fmicrocom-ti.com%2Fquines-somos&type=phone_number&app_absent=0)
-- **Dirección**: [Calle F. Cortez #3650, Barrio Magisterio – Santa Cruz, Bolivia](https://maps.app.goo.gl/GpAv9Bbr64oQdHhi7) 
+- 📧 **Correo Electrónico**: [microcom@microcom-ti.com]
+- 📱 **Teléfono**: [+591 72100255](https://api.whatsapp.com/send/?phone=59172100255&text=Hola+%2AMICROCOM+TI+SRL%2A.+Necesito+más+información+sobre+Quienes+Somos+https%3A%2F%2Fmicrocom-ti.com%2Fquines-somos&type=phone_number&app_absent=0)
+- 📍 **Dirección**: [Calle F. Cortez #3650, Barrio Magisterio – Santa Cruz, Bolivia](https://maps.app.goo.gl/GpAv9Bbr64oQdHhi7) 
 
 ---
 
