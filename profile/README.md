@@ -1,6 +1,6 @@
-# MICROCOM SRL.
+# MICROCOM-TI SRL.
 
-**MICROCOM SRL.** se especializa en ofrecer soluciones integrales en tecnología de la información, con el objetivo de mejorar la eficiencia y competitividad de nuestros clientes.
+**MICROCOM-TI SRL.** se especializa en ofrecer soluciones integrales en tecnología de la información, con el objetivo de mejorar la eficiencia y competitividad de nuestros clientes.
 
 ---
 
